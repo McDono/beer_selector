@@ -1,5 +1,7 @@
 {
   "name": "beer_selector",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
